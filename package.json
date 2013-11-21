@@ -3,7 +3,7 @@
   "description": "Simple configuration utility for Beat dependency injection",
   "author": "Ezequias Dinella <ezequias.net@gmail.com>",
   "repository": "git://github.com/edinella/beat-conf.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "lib/beat-conf.js",
   "dependencies": {
