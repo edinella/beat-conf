@@ -1,0 +1,37 @@
+{
+  "name": "beat-conf",
+  "description": "Simple configuration utility for Beat dependency injection",
+  "author": "Ezequias Dinella <ezequias.net@gmail.com>",
+  "repository": "git://github.com/edinella/beat-conf.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/beat-conf.js",
+  "dependencies": {
+    "beat": "~1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "chai": "~1.8.1",
+    "sinon": "~1.7.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "di",
+    "ioc",
+    "dependency",
+    "injection",
+    "injector",
+    "container",
+    "di container",
+    "ioc container",
+    "dependency management",
+    "inversion of control",
+    "dependency injection",
+    "conf",
+    "config",
+    "configuration",
+    "configure"
+  ]
+}
