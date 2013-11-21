@@ -71,3 +71,6 @@ while with `process.env.NODE_ENV` setted as 'test', it will be setted to `mongod
 The other configurations continue the same.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/3c564cef8f3514f15ebd6c06666f4318 "githalytics.com")](http://githalytics.com/edinella/beat-conf)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/edinella/beat-conf/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
